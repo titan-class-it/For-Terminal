@@ -1,4 +1,37 @@
-## Hi there 👋
+## Константин Сорокин
+
+***
+
+**Разработчик П.О.**
+
+***
+
+**Языки:** C, Java, Kotlin, SQL, Python, Go
+
+***
+
+Студент основного обучения ["Школы 21"](https://21-school.ru/) от Сбера.
+
+
+***
+
+| Язык | Проекты | Ссылки на GitHub |
+| :---: | :---: | :---: |
+| **C (C-Lang)** | Утилиты Cat и Grep <br> Игра "Порядок против Хаоса" <br> Библиотека Decimal | [Cat and Grep](https://github.com/TeamLeader-KS/Cat_And_Grep_Utility) <br> [order_vs_chaos](https://github.com/TeamLeader-KS/order_vs_chaos) <br> [Decimal]() |
+| **Java** | Игра "Рогалик" | [rougelite](https://github.com/TeamLeader-KS/s21_rougelite) |
+| **Kotlin** | - | - |
+| **SQL** | - | - |
+| **Python** | - | - |
+| **Go** | - | - |
+
+
+
+
+
+
+
+
+
 
 <!--
 **TeamLeader-KS/TeamLeader-KS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
