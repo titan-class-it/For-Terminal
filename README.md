@@ -33,7 +33,7 @@
 | :---: | :---: | :---: |
 | **C (C-Lang)** | Утилиты Cat и Grep <br> Игра "Порядок против Хаоса" <br> Библиотека Decimal | [Cat and Grep](https://github.com/TeamLeader-KS/Cat_And_Grep_Utility) <br> [order_vs_chaos](https://github.com/TeamLeader-KS/order_vs_chaos) <br> [Decimal]() |
 | **Java** | Игра "Рогалик" | [rougelite](https://github.com/TeamLeader-KS/s21_rougelite) |
-| **Kotlin** | - | - |
+| **Kotlin** | Игра "Кликер" | - |
 | **SQL** | - | - |
 | **Python** | - | - |
 | **Go** | - | - |
