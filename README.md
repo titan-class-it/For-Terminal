@@ -6,7 +6,21 @@
 
 ***
 
-**Языки:** C, Java, Kotlin, SQL, Python, Go
+**Языки:**
+- C (C-Lang)
+- Java
+- Kotlin
+- Python
+- Go
+
+**DevOps и инфраструктура:**
+- Администрирование NCP серверов
+- CI/CD пайплайны
+- Контейнеризация (Docker)
+- Работа с JSON / REST API
+
+**Базы данных**
+- SQL (PostgreSQL, MySQL)
 
 ***
 
